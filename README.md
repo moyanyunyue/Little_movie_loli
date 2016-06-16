@@ -1,6 +1,7 @@
 # Little_movie_loli
 中文：小小电影娘
-荣耀同时属于#小小书童#https://github.com/csufuyi/niubility 看到小小书童的idea，激发了我们对电影娘的规划。
+荣耀同时属于#小小书童#https://github.com/csufuyi/niubility 
+看到小小书童的idea，激发了我们对电影娘的规划。
 ## 成员介绍
 N0.1  莫颜云月 
 
